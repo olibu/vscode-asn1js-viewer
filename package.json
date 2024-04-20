@@ -11,7 +11,7 @@
     "Viewer"
   ],
   "activationEvents": [],
-  "main": "./extension.js",
+  "main": "./src/extension.js",
   "contributes": {
     "commands": [{
       "command": "vscode-asn1js-viewer.open",
